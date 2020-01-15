@@ -1,0 +1,8 @@
+{
+  "name": "parcel-simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eunbin/parcel-simple.git",
+  "author": "Eunbeen Ahn <ahneunbin@gmail.com>",
+  "license": "MIT"
+}
