@@ -7,5 +7,5 @@ Setting up a professional React project with parcel as a code bundler.
 - ES6 with Babel (babel-preset-env, barbel-preset-react) ✅
 - SCSS ✅
 - CSS Module ✅
-- typography.js
-- Build for production
+- typography.js ✅
+- Build for production ✅
