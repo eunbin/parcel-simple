@@ -1,4 +1,6 @@
 .cache
 .idea
-.node_modules
-.dist
+node_modules
+dist
+yarn-error.log
+yarn.lock
